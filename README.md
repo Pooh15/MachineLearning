@@ -1,4 +1,4 @@
-# MachineLearning
+# Alternative Fuzzy C-Means Algorithms
 This is Alternative fuzzy C means algorithm which is extended version of Fuzzy-C means algorithm. 
 
 New matrix has been introduced to calculate the distance between centroids and data points. 
